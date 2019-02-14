@@ -7,7 +7,7 @@
   <repositories>
         <repository>
             <id>bard-base</id>
-            <url>http://repo.maven.apache.org/maven2/</url>
+            <url>https://raw.githubusercontent.com/bard456/base/repository</url>
         </repository>
     </repositories>
 </project>
