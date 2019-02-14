@@ -4,5 +4,10 @@
   <groupId>com.bard.base</groupId>
   <artifactId>base</artifactId>
   <version>1.0.0</version>
-  <description>POM was created from install:install-file</description>
+  <repositories>
+        <repository>
+            <id>bard-base</id>
+            <url>http://repo.maven.apache.org/maven2/</url>
+        </repository>
+    </repositories>
 </project>
